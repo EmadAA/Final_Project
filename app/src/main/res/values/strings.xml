@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProManage</string>
+    <string name="product_add">Product Add</string>
+    <string name="name_of_the_item">Name of the Item</string>
+    <string name="product_name">Product Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="upload_image_if_you_have_any">Upload Image if you have any</string>
+    <string name="add_product">Add Product</string>
+</resources>
