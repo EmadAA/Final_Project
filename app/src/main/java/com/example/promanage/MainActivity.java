@@ -2,61 +2,77 @@ package com.example.promanage;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-
-import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 
 public class MainActivity extends AppCompatActivity {
+    private FirebaseAuth mAuth;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        EditText etUsername = findViewById(R.id.et_username);
+        mAuth = FirebaseAuth.getInstance();
+
+        EditText etEmail = findViewById(R.id.et_username);
         EditText etPassword = findViewById(R.id.et_password);
         Button btnLogin = findViewById(R.id.btn_login);
         Button btnRegister = findViewById(R.id.btn_register);
 
-        btnRegister.setOnClickListener(v->{
+        btnRegister.setOnClickListener(v -> {
             Intent intent = new Intent(MainActivity.this, RegisterActivity.class);
             startActivity(intent);
         });
 
         btnLogin.setOnClickListener(v -> {
-            String username = etUsername.getText().toString();
-            String password = etPassword.getText().toString();
+            String email = etEmail.getText().toString().trim();
+            String password = etPassword.getText().toString().trim();
 
-            if (username.isEmpty() || password.isEmpty()) {
+            if (email.isEmpty() || password.isEmpty()) {
                 Toast.makeText(MainActivity.this, "Please enter all the fields", Toast.LENGTH_SHORT).show();
-            } else {
-                if (username.equals("admin") && password.equals("admin")) {
-                    Intent intent = new Intent(MainActivity.this, ManageActivity.class);
-                    startActivity(intent);
-                } else {
-                    DatabaseHelper dbHelper = new DatabaseHelper(MainActivity.this);
-                    boolean result = dbHelper.checkUserByUsername(username, password);
-                    if (result) {
-                        Toast.makeText(MainActivity.this, "Welcome valid user!!", Toast.LENGTH_SHORT).show();
-                        Intent intent = new Intent(MainActivity.this, DisplayActivity.class);
-                        startActivity(intent);
-                    } else {
-                        Toast.makeText(MainActivity.this, "Invalid Username and password!", Toast.LENGTH_SHORT).show();
-                    }
-                }
+                return;
             }
+
+            // Sign in with email and password
+            mAuth.signInWithEmailAndPassword(email, password)
+                    .addOnCompleteListener(this, task -> {
+                        if (task.isSuccessful()) {
+                            FirebaseUser user = mAuth.getCurrentUser();
+                            if (user != null) {
+                                if (user.isEmailVerified()) {
+                                    // User is signed in and email is verified
+                                    Toast.makeText(MainActivity.this, "Login successful!", Toast.LENGTH_SHORT).show();
+                                    Intent intent = new Intent(MainActivity.this, DisplayActivity.class);
+                                    startActivity(intent);
+                                    finish();
+                                } else {
+                                    Toast.makeText(MainActivity.this, "Please verify your email first!", Toast.LENGTH_SHORT).show();
+                                    user.sendEmailVerification();
+                                }
+                            }
+                        } else {
+                            // If sign in fails, display a message to the user
+                            Toast.makeText(MainActivity.this, "Authentication failed: " + task.getException().getMessage(),
+                                    Toast.LENGTH_SHORT).show();
+                        }
+                    });
         });
+    }
 
-
-
-
-
+    @Override
+    protected void onStart() {
+        super.onStart();
+        // Check if user is signed in and update UI accordingly
+        FirebaseUser currentUser = mAuth.getCurrentUser();
+        if (currentUser != null && currentUser.isEmailVerified()) {
+            Intent intent = new Intent(MainActivity.this, DisplayActivity.class);
+            startActivity(intent);
+            finish();
+        }
     }
 }

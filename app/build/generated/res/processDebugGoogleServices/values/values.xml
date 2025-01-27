@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1036065165143</string>
+    <string name="google_api_key" translatable="false">AIzaSyBM8JGfXimljmz9tupi2HL7ZOfGvQ9HXQo</string>
+    <string name="google_app_id" translatable="false">1:1036065165143:android:492043dc8c98dca627f812</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBM8JGfXimljmz9tupi2HL7ZOfGvQ9HXQo</string>
+    <string name="google_storage_bucket" translatable="false">indoorxyz.firebasestorage.app</string>
+    <string name="project_id" translatable="false">indoorxyz</string>
+</resources>

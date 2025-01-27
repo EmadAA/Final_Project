@@ -4,9 +4,15 @@
     <color name="white">#FFFFFFFF</color>
     <string name="add_product">Add Product</string>
     <string name="app_name">ProManage</string>
+    <string name="gcm_defaultSenderId" translatable="false">1036065165143</string>
+    <string name="google_api_key" translatable="false">AIzaSyBM8JGfXimljmz9tupi2HL7ZOfGvQ9HXQo</string>
+    <string name="google_app_id" translatable="false">1:1036065165143:android:492043dc8c98dca627f812</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBM8JGfXimljmz9tupi2HL7ZOfGvQ9HXQo</string>
+    <string name="google_storage_bucket" translatable="false">indoorxyz.firebasestorage.app</string>
     <string name="name_of_the_item">Name of the Item</string>
     <string name="product_add">Product Add</string>
     <string name="product_name">Product Name</string>
+    <string name="project_id" translatable="false">indoorxyz</string>
     <string name="quantity">Quantity</string>
     <string name="upload_image_if_you_have_any">Upload Image if you have any</string>
     <style name="Base.Theme.ProManage" parent="Theme.Material3.DayNight.NoActionBar">

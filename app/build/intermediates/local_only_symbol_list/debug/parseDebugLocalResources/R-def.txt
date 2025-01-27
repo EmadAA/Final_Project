@@ -51,9 +51,15 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 string add_product
 string app_name
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
 string name_of_the_item
 string product_add
 string product_name
+string project_id
 string quantity
 string upload_image_if_you_have_any
 style Base.Theme.ProManage

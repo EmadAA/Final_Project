@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.promanage.app-mergeDebugResources-29:/values-v23/values-v23.xml",
+            "outputFile": "com.example.promanage.app-mergeDebugResources-38:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/ofk/.gradle/caches/transforms-4/9ac95f7143856406075ba02f43e9c664/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\emada\\.gradle\\caches\\transforms-4\\6f48f877c484933bf020257093443daf\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/ofk/.gradle/caches/transforms-4/19b07e76b7e90c1e6e152248701cc7b2/transformed/appcompat-1.7.0/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\emada\\.gradle\\caches\\transforms-4\\bb8c8a338c3df8d3096cce2a34425f5a\\transformed\\appcompat-1.7.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -34,7 +34,7 @@
                     }
                 },
                 {
-                    "source": "/home/ofk/.gradle/caches/transforms-4/a45ddd8da72f3751a942950333ddd51b/transformed/material-1.12.0/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\emada\\.gradle\\caches\\transforms-4\\4ddf54a59d5d6589bbe0664ad55fb491\\transformed\\material-1.12.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,9,13,16,19,22,25,28,32",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

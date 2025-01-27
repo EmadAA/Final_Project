@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.promanage.app-mergeDebugResources-29:/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "com.example.promanage.app-mergeDebugResources-38:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/home/ofk/.gradle/caches/transforms-4/19b07e76b7e90c1e6e152248701cc7b2/transformed/appcompat-1.7.0/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "source": "C:\\Users\\emada\\.gradle\\caches\\transforms-4\\bb8c8a338c3df8d3096cce2a34425f5a\\transformed\\appcompat-1.7.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

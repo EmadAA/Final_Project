@@ -1,34 +1,43 @@
-com.example.promanage.app-lifecycle-process-2.6.2-0 /home/ofk/.gradle/caches/transforms-4/1456a651d5b2ddf801974ad073428bc1/transformed/lifecycle-process-2.6.2/res
-com.example.promanage.app-appcompat-1.7.0-1 /home/ofk/.gradle/caches/transforms-4/19b07e76b7e90c1e6e152248701cc7b2/transformed/appcompat-1.7.0/res
-com.example.promanage.app-fragment-1.5.4-2 /home/ofk/.gradle/caches/transforms-4/22722b68e1e9c0180854b8bc3837ef06/transformed/fragment-1.5.4/res
-com.example.promanage.app-lifecycle-viewmodel-2.6.2-3 /home/ofk/.gradle/caches/transforms-4/24a5622fa9355ea77fdb26ba3b90ea90/transformed/lifecycle-viewmodel-2.6.2/res
-com.example.promanage.app-drawerlayout-1.1.1-4 /home/ofk/.gradle/caches/transforms-4/41aa82332c9d8e588c1bb63cbdb62380/transformed/drawerlayout-1.1.1/res
-com.example.promanage.app-emoji2-views-helper-1.3.0-5 /home/ofk/.gradle/caches/transforms-4/422ec5251da36f592c1b7f2914e1ab80/transformed/emoji2-views-helper-1.3.0/res
-com.example.promanage.app-constraintlayout-2.1.4-6 /home/ofk/.gradle/caches/transforms-4/4921a01391f0b1f663db7c565da461fa/transformed/constraintlayout-2.1.4/res
-com.example.promanage.app-lifecycle-viewmodel-savedstate-2.6.2-7 /home/ofk/.gradle/caches/transforms-4/5388a629343ad89c27a96064239af40e/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
-com.example.promanage.app-startup-runtime-1.1.1-8 /home/ofk/.gradle/caches/transforms-4/5979582a5a859f8700497986d1b1e6d7/transformed/startup-runtime-1.1.1/res
-com.example.promanage.app-annotation-experimental-1.4.0-9 /home/ofk/.gradle/caches/transforms-4/6138daac0ed3a6270e92942826f32ea5/transformed/annotation-experimental-1.4.0/res
-com.example.promanage.app-emoji2-1.3.0-10 /home/ofk/.gradle/caches/transforms-4/65113a6ffae8e4f8bd6a9e3c946ee3d5/transformed/emoji2-1.3.0/res
-com.example.promanage.app-lifecycle-livedata-core-2.6.2-11 /home/ofk/.gradle/caches/transforms-4/799687944abc87d22f160b279f814573/transformed/lifecycle-livedata-core-2.6.2/res
-com.example.promanage.app-viewpager2-1.0.0-12 /home/ofk/.gradle/caches/transforms-4/79c201c7030ec4fee0c8f6100a8f412d/transformed/viewpager2-1.0.0/res
-com.example.promanage.app-coordinatorlayout-1.1.0-13 /home/ofk/.gradle/caches/transforms-4/9080e229395e623b1f05b206f2786a26/transformed/coordinatorlayout-1.1.0/res
-com.example.promanage.app-cardview-1.0.0-14 /home/ofk/.gradle/caches/transforms-4/9ac95f7143856406075ba02f43e9c664/transformed/cardview-1.0.0/res
-com.example.promanage.app-lifecycle-runtime-2.6.2-15 /home/ofk/.gradle/caches/transforms-4/a12801a2bb97d9dbe0a7d3f2657554ad/transformed/lifecycle-runtime-2.6.2/res
-com.example.promanage.app-material-1.12.0-16 /home/ofk/.gradle/caches/transforms-4/a45ddd8da72f3751a942950333ddd51b/transformed/material-1.12.0/res
-com.example.promanage.app-profileinstaller-1.3.1-17 /home/ofk/.gradle/caches/transforms-4/ad7390cba44597e342278fcd948434ab/transformed/profileinstaller-1.3.1/res
-com.example.promanage.app-lifecycle-livedata-2.6.2-18 /home/ofk/.gradle/caches/transforms-4/bef5daec8c70441f290645aa89d74b7e/transformed/lifecycle-livedata-2.6.2/res
-com.example.promanage.app-core-runtime-2.2.0-19 /home/ofk/.gradle/caches/transforms-4/d26e48462a4f67f9368db6d940657500/transformed/core-runtime-2.2.0/res
-com.example.promanage.app-activity-1.9.0-20 /home/ofk/.gradle/caches/transforms-4/d90f10df1c5d07ff4e739be7a9b69a58/transformed/activity-1.9.0/res
-com.example.promanage.app-savedstate-1.2.1-21 /home/ofk/.gradle/caches/transforms-4/e036ec29a98d3caa55c92c56df8983bb/transformed/savedstate-1.2.1/res
-com.example.promanage.app-appcompat-resources-1.7.0-22 /home/ofk/.gradle/caches/transforms-4/e456fd3fec1bc4e588b1f90516ec50d2/transformed/appcompat-resources-1.7.0/res
-com.example.promanage.app-core-ktx-1.13.0-23 /home/ofk/.gradle/caches/transforms-4/eb346ab39994a81accb6fa4b957b8dc9/transformed/core-ktx-1.13.0/res
-com.example.promanage.app-transition-1.5.0-24 /home/ofk/.gradle/caches/transforms-4/eb60694cf52412c7bed408f253589708/transformed/transition-1.5.0/res
-com.example.promanage.app-core-1.13.0-25 /home/ofk/.gradle/caches/transforms-4/f4a25eb178310fc8f72f5c01fbdd1be7/transformed/core-1.13.0/res
-com.example.promanage.app-recyclerview-1.1.0-26 /home/ofk/.gradle/caches/transforms-4/f4d0e81ce60cc91bbeca393db7380780/transformed/recyclerview-1.1.0/res
-com.example.promanage.app-pngs-27 /mnt/511731FD5D907C1A/Java apps/adil/ProManage-main(1)/ProManage-main/app/build/generated/res/pngs/debug
-com.example.promanage.app-resValues-28 /mnt/511731FD5D907C1A/Java apps/adil/ProManage-main(1)/ProManage-main/app/build/generated/res/resValues/debug
-com.example.promanage.app-packageDebugResources-29 /mnt/511731FD5D907C1A/Java apps/adil/ProManage-main(1)/ProManage-main/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.promanage.app-packageDebugResources-30 /mnt/511731FD5D907C1A/Java apps/adil/ProManage-main(1)/ProManage-main/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.promanage.app-debug-31 /mnt/511731FD5D907C1A/Java apps/adil/ProManage-main(1)/ProManage-main/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.promanage.app-debug-32 /mnt/511731FD5D907C1A/Java apps/adil/ProManage-main(1)/ProManage-main/app/src/debug/res
-com.example.promanage.app-main-33 /mnt/511731FD5D907C1A/Java apps/adil/ProManage-main(1)/ProManage-main/app/src/main/res
+com.example.promanage.app-browser-1.4.0-0 C:\Users\emada\.gradle\caches\transforms-4\121f3ba487c641a7e62613dfaacc2e4e\transformed\browser-1.4.0\res
+com.example.promanage.app-lifecycle-viewmodel-2.6.2-1 C:\Users\emada\.gradle\caches\transforms-4\16ae42c241c62b881232b2a4239479aa\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.promanage.app-savedstate-1.2.1-2 C:\Users\emada\.gradle\caches\transforms-4\17053e55db4060e113c14a9fbe289331\transformed\savedstate-1.2.1\res
+com.example.promanage.app-lifecycle-livedata-2.6.2-3 C:\Users\emada\.gradle\caches\transforms-4\21dd42da0b2eaafd084b51bddc27bae1\transformed\lifecycle-livedata-2.6.2\res
+com.example.promanage.app-play-services-auth-20.7.0-4 C:\Users\emada\.gradle\caches\transforms-4\22c157db812349d317800a8266300717\transformed\play-services-auth-20.7.0\res
+com.example.promanage.app-play-services-basement-18.4.0-5 C:\Users\emada\.gradle\caches\transforms-4\241deb233fc41524fe7acd2fbd94e136\transformed\play-services-basement-18.4.0\res
+com.example.promanage.app-emoji2-1.3.0-6 C:\Users\emada\.gradle\caches\transforms-4\2ea68238d5525842e3af2143525cae0d\transformed\emoji2-1.3.0\res
+com.example.promanage.app-lifecycle-process-2.6.2-7 C:\Users\emada\.gradle\caches\transforms-4\3c8b430576d82b06dd0af2eb533e1dad\transformed\lifecycle-process-2.6.2\res
+com.example.promanage.app-lifecycle-runtime-2.6.2-8 C:\Users\emada\.gradle\caches\transforms-4\3f86a1fcbc29d9e18ff1c986cfc277e3\transformed\lifecycle-runtime-2.6.2\res
+com.example.promanage.app-drawerlayout-1.1.1-9 C:\Users\emada\.gradle\caches\transforms-4\3fc93396795390b1eac96d767a50fe42\transformed\drawerlayout-1.1.1\res
+com.example.promanage.app-credentials-play-services-auth-1.2.0-rc01-10 C:\Users\emada\.gradle\caches\transforms-4\43b32b75a55c090b96a1e614bbee8add\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.promanage.app-material-1.12.0-11 C:\Users\emada\.gradle\caches\transforms-4\4ddf54a59d5d6589bbe0664ad55fb491\transformed\material-1.12.0\res
+com.example.promanage.app-annotation-experimental-1.4.0-12 C:\Users\emada\.gradle\caches\transforms-4\4e9f8f5a9244a1965e50ec52d2eeba50\transformed\annotation-experimental-1.4.0\res
+com.example.promanage.app-startup-runtime-1.1.1-13 C:\Users\emada\.gradle\caches\transforms-4\66747f9414b54267551bdd5d0d5b1c61\transformed\startup-runtime-1.1.1\res
+com.example.promanage.app-cardview-1.0.0-14 C:\Users\emada\.gradle\caches\transforms-4\6f48f877c484933bf020257093443daf\transformed\cardview-1.0.0\res
+com.example.promanage.app-viewpager2-1.0.0-15 C:\Users\emada\.gradle\caches\transforms-4\78d178419f4365927954fcaee6a2b5fc\transformed\viewpager2-1.0.0\res
+com.example.promanage.app-core-1.13.0-16 C:\Users\emada\.gradle\caches\transforms-4\7bc1a06844261f874824d41f3f2514a4\transformed\core-1.13.0\res
+com.example.promanage.app-transition-1.5.0-17 C:\Users\emada\.gradle\caches\transforms-4\7fb9905b29de9c98769d1d5defaeb649\transformed\transition-1.5.0\res
+com.example.promanage.app-fragment-1.5.4-18 C:\Users\emada\.gradle\caches\transforms-4\88f3aedb04feb289a2e7d38a47a3fbe8\transformed\fragment-1.5.4\res
+com.example.promanage.app-profileinstaller-1.3.1-19 C:\Users\emada\.gradle\caches\transforms-4\8f07ce3451c1b52dce664c42e3cf5e68\transformed\profileinstaller-1.3.1\res
+com.example.promanage.app-emoji2-views-helper-1.3.0-20 C:\Users\emada\.gradle\caches\transforms-4\9108cbe74eb6ed2d254aa420995688e4\transformed\emoji2-views-helper-1.3.0\res
+com.example.promanage.app-core-runtime-2.2.0-21 C:\Users\emada\.gradle\caches\transforms-4\92300dcac6067eb81b5629856a2b4788\transformed\core-runtime-2.2.0\res
+com.example.promanage.app-firebase-common-21.0.0-22 C:\Users\emada\.gradle\caches\transforms-4\95f117577d2184f2a28df2ca3cd04eba\transformed\firebase-common-21.0.0\res
+com.example.promanage.app-recyclerview-1.1.0-23 C:\Users\emada\.gradle\caches\transforms-4\980bb8ed847c1f5d3ab0acd984d847be\transformed\recyclerview-1.1.0\res
+com.example.promanage.app-coordinatorlayout-1.1.0-24 C:\Users\emada\.gradle\caches\transforms-4\b53a26820d4cbc65b56910bdb2e4d4b2\transformed\coordinatorlayout-1.1.0\res
+com.example.promanage.app-appcompat-1.7.0-25 C:\Users\emada\.gradle\caches\transforms-4\bb8c8a338c3df8d3096cce2a34425f5a\transformed\appcompat-1.7.0\res
+com.example.promanage.app-play-services-base-18.0.1-26 C:\Users\emada\.gradle\caches\transforms-4\bcb51375e7442e9dfeebcfed81be02d6\transformed\play-services-base-18.0.1\res
+com.example.promanage.app-lifecycle-livedata-core-2.6.2-27 C:\Users\emada\.gradle\caches\transforms-4\c6878298859005f3557eb51c42683f95\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.promanage.app-appcompat-resources-1.7.0-28 C:\Users\emada\.gradle\caches\transforms-4\ce8ed126cc644d8fa21f601071621230\transformed\appcompat-resources-1.7.0\res
+com.example.promanage.app-constraintlayout-2.1.4-29 C:\Users\emada\.gradle\caches\transforms-4\e10e401a799c548c491e1e756cd517e8\transformed\constraintlayout-2.1.4\res
+com.example.promanage.app-lifecycle-viewmodel-savedstate-2.6.2-30 C:\Users\emada\.gradle\caches\transforms-4\ee91f535b6ce1c1b8e97827fce97824b\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.promanage.app-credentials-1.2.0-rc01-31 C:\Users\emada\.gradle\caches\transforms-4\eef90217e8795b78ddcac8d8a28f6061\transformed\credentials-1.2.0-rc01\res
+com.example.promanage.app-activity-1.9.0-32 C:\Users\emada\.gradle\caches\transforms-4\f962d1c69f43248c16af7907b788fb86\transformed\activity-1.9.0\res
+com.example.promanage.app-core-common-2.0.3-33 C:\Users\emada\.gradle\caches\transforms-4\fc31d581ccd96bba293f91a9501ea03b\transformed\core-common-2.0.3\res
+com.example.promanage.app-core-ktx-1.13.0-34 C:\Users\emada\.gradle\caches\transforms-4\ffb6083f67b413a70a8fc0a1a21230f7\transformed\core-ktx-1.13.0\res
+com.example.promanage.app-pngs-35 D:\Downloads Path for F Folder\ProManage-main\ProManage-main\app\build\generated\res\pngs\debug
+com.example.promanage.app-res-36 D:\Downloads Path for F Folder\ProManage-main\ProManage-main\app\build\generated\res\processDebugGoogleServices
+com.example.promanage.app-resValues-37 D:\Downloads Path for F Folder\ProManage-main\ProManage-main\app\build\generated\res\resValues\debug
+com.example.promanage.app-packageDebugResources-38 D:\Downloads Path for F Folder\ProManage-main\ProManage-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.promanage.app-packageDebugResources-39 D:\Downloads Path for F Folder\ProManage-main\ProManage-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.promanage.app-debug-40 D:\Downloads Path for F Folder\ProManage-main\ProManage-main\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.promanage.app-debug-41 D:\Downloads Path for F Folder\ProManage-main\ProManage-main\app\src\debug\res
+com.example.promanage.app-main-42 D:\Downloads Path for F Folder\ProManage-main\ProManage-main\app\src\main\res
