@@ -3056,6 +3056,7 @@ drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_logout
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
@@ -3253,6 +3254,7 @@ id browser_actions_menu_view
 id btn_add_product
 id btn_delete
 id btn_login
+id btn_logout
 id btn_lost_post_create
 id btn_register
 id btn_update
@@ -3894,6 +3896,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 layout view_card
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 raw firebase_common_keep

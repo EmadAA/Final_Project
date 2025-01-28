@@ -13,16 +13,38 @@
         android:layout_height="wrap_content"
         app:layout_constraintTop_toTopOf="parent">
 
-        <SearchView
-            android:id="@+id/lost_searchView"
+        <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="8dp"
-            app:iconifiedByDefault="false"
-            app:queryHint="Search" />
+            android:layout_height="wrap_content">
+
+            <SearchView
+                android:id="@+id/lost_searchView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                app:iconifiedByDefault="false"
+                app:queryHint="Search"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/btn_logout"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageButton
+                android:id="@+id/btn_logout"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_margin="8dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:src="@drawable/ic_logout"
+                android:contentDescription="Logout"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
 
     </com.google.android.material.appbar.AppBarLayout>
 
+    <!-- Rest of your layout remains the same -->
     <TextView
         android:id="@+id/lost_textView_found_items"
         android:layout_width="wrap_content"
@@ -74,13 +96,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
 
-
         <Button
             android:id="@+id/btn_lost_post_create"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Add new Products"
-             />
+            android:text="Add new Products" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,19 +1,31 @@
 [
     {
-        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\layout_view_card.xml.flat",
-        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\layout\\view_card.xml"
+        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-anydpi_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\layout_view_card.xml.flat",
+        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\layout\\view_card.xml"
+    },
+    {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\xml_data_extraction_rules.xml.flat",
@@ -26,6 +38,10 @@
     {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\layout_activity_register.xml.flat",
         "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "com.example.promanage.app-debug-40:/layout_activity_manage.xml.flat",
+        "source": "com.example.promanage.app-main-42:/layout/activity_manage.xml"
     },
     {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\layout_product_card.xml.flat",
@@ -44,6 +60,10 @@
         "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\layout\\dialog_update_product.xml"
     },
     {
+        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\drawable\\ic_logout.xml"
+    },
+    {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
@@ -60,12 +80,24 @@
         "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\layout_activity_add_product.xml.flat",
         "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\layout\\activity_add_product.xml"
     },
     {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\layout_activity_display.xml.flat",
         "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\layout\\activity_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
     {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
@@ -76,24 +108,24 @@
         "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.promanage.app-debug-40:/layout_activity_main.xml.flat",
-        "source": "com.example.promanage.app-main-42:/layout/activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\drawable_upload_plus.png.flat",
         "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\drawable\\upload_plus.png"
     },
     {
-        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\xml\\backup_rules.xml"
-    },
-    {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-main-42:\\xml\\backup_rules.xml"
     },
     {
         "merged": "C:\\Users\\emada\\.gradle\\daemon\\8.7\\com.example.promanage.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",

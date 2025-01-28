@@ -1,0 +1,3 @@
+com.example.promanage.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

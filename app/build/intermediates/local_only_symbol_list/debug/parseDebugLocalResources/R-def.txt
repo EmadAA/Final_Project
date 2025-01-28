@@ -4,11 +4,13 @@ color black
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_logout
 drawable upload_plus
 id appBarLayout
 id btn_add_product
 id btn_delete
 id btn_login
+id btn_logout
 id btn_lost_post_create
 id btn_register
 id btn_update
@@ -48,6 +50,7 @@ layout dialog_update_product
 layout product_card
 layout view_card
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string add_product
 string app_name

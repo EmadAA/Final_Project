@@ -38,7 +38,14 @@ public class MainActivity extends AppCompatActivity {
                 return;
             }
 
-            // Sign in with email and password
+            // Check for admin login first
+            if (email.equals("admin") && password.equals("admin")) {
+                Intent intent = new Intent(MainActivity.this, ManageActivity.class);
+                startActivity(intent);
+                return; // Add return to prevent Firebase authentication
+            }
+
+            // If not admin, proceed with Firebase authentication
             mAuth.signInWithEmailAndPassword(email, password)
                     .addOnCompleteListener(this, task -> {
                         if (task.isSuccessful()) {

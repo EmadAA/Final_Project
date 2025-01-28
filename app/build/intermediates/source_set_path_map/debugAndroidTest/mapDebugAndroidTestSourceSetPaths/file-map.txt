@@ -1,0 +1,5 @@
+com.example.promanage.test.app-core-1.6.1-0 C:\Users\emada\.gradle\caches\transforms-4\cddfd2a39dbe5d526285a252498d5e08\transformed\core-1.6.1\res
+com.example.promanage.test.app-androidTest-1 D:\Downloads Path for F Folder\ProManage-main\ProManage-main\app\build\generated\res\resValues\androidTest\debug
+com.example.promanage.test.app-mergeDebugAndroidTestResources-2 D:\Downloads Path for F Folder\ProManage-main\ProManage-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.promanage.test.app-mergeDebugAndroidTestResources-3 D:\Downloads Path for F Folder\ProManage-main\ProManage-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.promanage.test.app-debugAndroidTest-4 D:\Downloads Path for F Folder\ProManage-main\ProManage-main\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
